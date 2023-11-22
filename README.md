@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vamsi111-tkv
-- 👀 I’m interested in Tibco bw 6
-- 🌱 I’m currently learning tibco bw
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in servicenow development
+- 🌱 I’m currently learning servicenow itsm
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
